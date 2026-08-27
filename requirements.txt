@@ -1,0 +1,8 @@
+torch>=2.1
+numpy
+regex
+tqdm
+matplotlib
+pandas
+pyarrow
+
